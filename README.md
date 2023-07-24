@@ -47,8 +47,8 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-    <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia">
-        <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia" alt="GitHub Trophies">
+    <a href="https://github-profile-trophy.vercel.app/?username=dishadutta04&theme=algolia">
+        <img src="https://github-profile-trophy.vercel.app/?username=dishadutta04&theme=algolia" alt="GitHub Trophies">
     </a>
 </p>
 

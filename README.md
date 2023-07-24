@@ -23,4 +23,4 @@ Here are some of the projects I've been working on:
 ## Let's Connect
 
 - 📫 How to reach me: dishadutta@example.com
-- 💼 LinkedIn: [Disha Dutta](https://www.linkedin.com/in/disha-dutta/)
+- 💼 LinkedIn: [Disha Dutta](https://www.linkedin.com/in/disha-dutta-748579275/)

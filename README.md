@@ -16,7 +16,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-    I'm currently pursuing my B.Tech at Banasthali Vidhyapeeth, where I'm constantly learning and experimenting with new technologies. My heart lies in software development, and I'm deeply passionate about Data Structures and Algorithms (DSA) and the endless possibilities of Python. Apart from coding, I find joy in capturing beautiful moments through my camera lens and expressing myself through art.
+    I'm currently pursuing my B.Tech at Banasthali Vidhyapeeth, where I'm constantly learning and experimenting with new technologies. My heart lies in software development, and I'm deeply passionate about Data Structures and Algorithms (DSA) and the endless possibilities of Python.
 </p>
 
 <h2 align="center">Languages and Tools</h2>

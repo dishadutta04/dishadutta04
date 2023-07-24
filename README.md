@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there! 👋 I'm Disha Dutta, a B.Tech student at Banasthali Vidhyapeeth.
 
-<!--
-**dishadutta04/dishadutta04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development and currently focusing on Data Structures and Algorithms (DSA) along with hands-on experience in Python.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying B.Tech at Banasthali Vidhyapeeth.
+- 🌱 Learning and practicing Data Structures and Algorithms (DSA).
+- 💻 Proficient in C, C++, and Python.
+- ⚡ Fun fact: I love solving puzzles and exploring new programming challenges.
+
+## Projects
+
+Here are some of the projects I've been working on:
+
+- 🚀 [Project 1](https://github.com/dishadutta04/project1): A brief description of project 1.
+- 🌟 [Project 2](https://github.com/dishadutta04/project2): Another exciting project I've worked on.
+
+## GitHub Stats
+
+![Disha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dishadutta04&show_icons=true&hide=contribs&count_private=true&hide_border=true)
+
+## Let's Connect
+
+- 📫 How to reach me: dishadutta@example.com
+- 💼 LinkedIn: [Disha Dutta](https://www.linkedin.com/in/disha-dutta/)

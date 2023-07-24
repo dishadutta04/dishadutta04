@@ -47,7 +47,9 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dishadutta04&show_icons=true&hide=contribs&count_private=true&hide_border=true" alt="Disha's GitHub Stats">
+    <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia">
+        <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia" alt="GitHub Trophies">
+    </a>
 </p>
 
 <h2 align="center">Let's Connect</h2>

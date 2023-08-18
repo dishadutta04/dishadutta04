@@ -40,8 +40,8 @@
 </p>
 
 <ul>
-    <li><a href="https://github.com/dishadutta04/project1">🚀 Project 1</a> - A brief description of project 1.</li>
-    <li><a href="https://github.com/dishadutta04/project2">🌟 Project 2</a> - Another exciting project I've worked on.</li>
+    <li><a href="https://github.com/dishadutta04/bharat-intern-task/blob/main/Video-Conferencing-Disha.zip">🚀 Project 1</a> - A Video Conferencing WebApp</li>
+    <li><a href="https://github.com/dishadutta04/bharat-intern-task/blob/main/Content%20_Management_Disha%F0%9F%92%AB.html">🌟 Project 2</a> - Content management system</li>
 </ul>
 
 <h2 align="center">GitHub Stats</h2>

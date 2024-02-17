@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Cutie Disha 🐼</h1>
+<h1 align="center">Hi there! 👋 I'm Disha Dutta</h1>
 
 <p align="center">
     <em>B.Tech Student | Software Developer | Tech Enthusiast</em>
@@ -33,3 +33,6 @@
     <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode">
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3ohhwg0W9l3TycOf6A/giphy.gif" alt="panda-waving" width="200px">
+</div>

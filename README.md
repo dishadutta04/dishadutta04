@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Disha Dutta 🐼</h1>
+<h1 align="center">Hi there! 👋 I'm Disha Dutta </h1>
 
 <p align="center">
     <em>B.Tech Student | Software Developer | Tech Enthusiast</em>
